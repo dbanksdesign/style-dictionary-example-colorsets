@@ -1,0 +1,9 @@
+{
+  "color": {
+    "background": {
+      "primary": { "value": "{color.core.white.value}" },
+      "secondary": { "value": "{color.core.neutral.0.value}" },
+      "tertiary": { "value": "{color.core.neutral.10.value}" }
+    }
+  }
+}

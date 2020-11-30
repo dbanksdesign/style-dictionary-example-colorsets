@@ -1,0 +1,9 @@
+{
+  "color": {
+    "font": {
+      "primary": { "value": "{color.core.black.value}" },
+      "secondary": { "value": "{color.core.neutral.100.value}" },
+      "tertiary": { "value": "{color.core.neutral.80.value}" }
+    }
+  }
+}

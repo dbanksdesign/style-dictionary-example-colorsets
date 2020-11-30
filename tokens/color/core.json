@@ -1,0 +1,18 @@
+{
+  "color": {
+    "core": {
+      "white": { "value": "#ffffff" },
+      "black": { "value": "#000000" },
+      
+      "neutral": {
+        "100": { "value": "#212121" },
+        "80": { "value": "#424242" },
+        "60": { "value": "#757575" },
+        "40": { "value": "#BDBDBD" },
+        "20": { "value": "#EEEEEE" },
+        "10": { "value": "#F5F5F5" },
+        "0": { "value": "#FAFAFA" }
+      }
+    }
+  }
+}
